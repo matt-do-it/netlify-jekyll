@@ -1,0 +1,11 @@
+{
+  "name": "netlify-jekyll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/matt-do-it/netlify-jekyll.git",
+  "author": "Matt Herold <mattherold@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@stackbit/cms-git": "^1.0.34"
+  }
+}
